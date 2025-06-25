@@ -80,6 +80,7 @@ div.container {
     color: white; /* Ensure text is readable on the background */
     text-align: center; /* Center the text */
     padding: 20px; 
+    overflow: hidden;
 }
 
 .hero h1 {
