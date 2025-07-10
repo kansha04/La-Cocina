@@ -217,3 +217,20 @@ footer {
         padding: 10px 20px;
     }
 }
+@media only screen and (max-width:620px) {
+    .about {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width: 450px) {
+    .about {
+        text-align: center;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .about p {
+        width: 80%;
+        margin: 5% auto;
+    }
+}
